@@ -1,1 +1,1 @@
-# VeriBot-MM32-MK1
+# VeriBot-mm32
